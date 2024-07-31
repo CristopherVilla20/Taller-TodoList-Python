@@ -37,7 +37,6 @@ def clear_list(tasks):
     tasks.clear()
     print("To-do list cleared.")
 
-# Modify the main function to include the new features
 def main():
     tasks = []
     while True:
